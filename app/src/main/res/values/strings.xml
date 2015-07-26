@@ -1,0 +1,15 @@
+<resources>
+    <!-- General -->
+    <string name="app_name">My App Portfolio</string>
+    <string name="portfolio_title">Nicolas Carrasco\'s Portfolio</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings for app names -->
+    <string name="spotify_button">Spotify Streamer</string>
+    <string name="football_button">Scores App</string>
+    <string name="library_button">Library App</string>
+    <string name="bigger_button">Build it Bigger</string>
+    <string name="reader_button">XYZ Reader</string>
+    <string name="my_app_button">Capstone</string>
+    <!-- Strings for toast messages -->
+    <string name="launch_toast">This button will launch the\u0020</string>
+</resources>
